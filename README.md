@@ -174,6 +174,14 @@ A simple application that displays random quotes.
 <div align="center">
 
 <img
+  src="https://ghchart.rshah.org/39D98A/assemkaram"
+  width="100%"
+  alt="GitHub Contribution Calendar"
+/>
+
+<br/><br/>
+
+<img
   src="https://streak-stats.demolab.com?user=assemkaram&theme=dark&hide_border=true&background=0b2e1f&ring=39D98A&fire=39D98A&currStreakLabel=39D98A"
   width="70%"
   alt="GitHub Streak Stats"
