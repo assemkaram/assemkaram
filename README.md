@@ -174,9 +174,9 @@ A simple application that displays random quotes.
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=assemkaram&bg_color=0b2e1f&color=39D98A&line=39D98A&point=e9f7ef&area=true&hide_border=true"
+  src="https://ghchart.rshah.org/39D98A/assemkaram"
   width="100%"
-  alt="GitHub Contribution Activity Graph"
+  alt="GitHub Contribution Calendar"
 />
 
 <br/><br/>
