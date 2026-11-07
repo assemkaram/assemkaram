@@ -203,9 +203,9 @@ A simple application that displays random quotes.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=assemkaram&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0b2e1f&title_color=39D98A&icon_color=39D98A&text_color=e9f7ef&include_all_commits=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=assemkaram&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assemkaram&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0b2e1f&title_color=39D98A&text_color=e9f7ef" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=assemkaram&theme=github_dark" />
 
 <br/><br/>
 
