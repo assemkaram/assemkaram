@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/assemkaram">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-1f7a4d?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://drive.google.com/drive/folders/1y4XgSw_5BSIILB7dgsxvUgwScTQC2Nq9?usp=sharing">
+  <img src="https://img.shields.io/badge/CV-Show%20CV-2fbf7a?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
 <a href="https://github.com/assemkaram">
   <img src="https://img.shields.io/badge/GitHub-Follow-0b2e1f?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -233,6 +236,9 @@ A simple application that displays random quotes.
 </a>
 <a href="https://www.linkedin.com/in/assemkaram">
   <img src="https://img.shields.io/badge/LinkedIn-1f7a4d?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://drive.google.com/drive/folders/1y4XgSw_5BSIILB7dgsxvUgwScTQC2Nq9?usp=sharing">
+  <img src="https://img.shields.io/badge/CV-2fbf7a?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 <a href="https://github.com/assemkaram">
   <img src="https://img.shields.io/badge/GitHub-0b2e1f?style=for-the-badge&logo=github&logoColor=white" />
