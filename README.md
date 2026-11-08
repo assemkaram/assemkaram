@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/assemkaram/portfolio">
+<a href="https://assem-karam-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-39D98A?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/assemkaram">
@@ -231,7 +231,7 @@ A simple application that displays random quotes.
 
 <div align="center">
 
-<a href="https://github.com/assemkaram/portfolio">
+<a href="https://assem-karam-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-39D98A?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/assemkaram">
