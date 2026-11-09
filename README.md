@@ -95,6 +95,10 @@ const assem = {
 
 ### 📋 TaskFlow
 
+<a href="https://assemkaram.github.io/TaskFlow/">
+  <img src="./assets/projects/taskflow.png" width="100%" alt="TaskFlow" />
+</a>
+
 A productivity management application for organizing tasks and daily activities.
 
 **Highlights:**
@@ -108,6 +112,10 @@ A productivity management application for organizing tasks and daily activities.
 <td width="50%" valign="top">
 
 ### 💱 Flux FX
+
+<a href="https://assemkaram.github.io/Flux-FX/">
+  <img src="./assets/projects/flux-fx.png" width="100%" alt="Flux FX" />
+</a>
 
 A currency converter application with real-time exchange rates.
 
@@ -125,6 +133,10 @@ A currency converter application with real-time exchange rates.
 
 ### 💬 First Chat
 
+<a href="https://assemkaram.github.io/First-Chat/">
+  <img src="./assets/projects/first-chat.png" width="100%" alt="First Chat" />
+</a>
+
 A responsive web project built using HTML, CSS, JavaScript, and Bootstrap.
 
 **Highlights:**
@@ -137,6 +149,10 @@ A responsive web project built using HTML, CSS, JavaScript, and Bootstrap.
 <td width="50%" valign="top">
 
 ### ✅ To-Do App
+
+<a href="https://assemkaram.github.io/To-Do/">
+  <img src="./assets/projects/todo.png" width="100%" alt="To-Do App" />
+</a>
 
 A JavaScript task management application.
 
@@ -152,6 +168,10 @@ A JavaScript task management application.
 <td width="50%" valign="top">
 
 ### 🎲 Random Quotes
+
+<a href="https://assemkaram.github.io/Random-Quotes/">
+  <img src="./assets/projects/random-quotes.png" width="100%" alt="Random Quotes" />
+</a>
 
 A simple application that displays random quotes.
 
