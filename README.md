@@ -196,10 +196,22 @@ A simple application that displays random quotes.
 
 <div align="center">
 
+### Contribution Calendar
+
 <img
   src="https://ghchart.rshah.org/39D98A/assemkaram"
   width="100%"
   alt="GitHub Contribution Calendar"
+/>
+
+<br/><br/>
+
+### Activity Graph
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=assemkaram&custom_title=Assem%20Karam%27s%20Contribution%20Graph&bg_color=0b2e1f&color=74c69d&line=39D98A&point=e9f7ef&area=true&area_color=2fbf7a&title_color=39D98A&hide_border=true"
+  width="100%"
+  alt="GitHub Activity Graph"
 />
 
 <br/><br/>
