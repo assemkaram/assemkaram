@@ -184,6 +184,20 @@ A simple application that displays random quotes.
 </td>
 <td width="50%" valign="top">
 
+### 🐎 A&A
+
+<a href="https://github.com/assemkaram/A-A">
+  <img src="./assets/projects/aa-horses.png" width="100%" alt="A&A" />
+</a>
+
+A website for an equestrian brand showcasing horses, training, and breeding.
+
+**Highlights:**
+- Pages for horses, training, breeding, gallery, journal, and contact
+- Hero slider with a clean, elegant green design
+
+[View Repository](https://github.com/assemkaram/A-A)
+
 </td>
 </tr>
 </table>
@@ -209,8 +223,8 @@ A simple application that displays random quotes.
 ### Activity Graph
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=assemkaram&custom_title=Assem%20Karam%27s%20Contribution%20Graph&bg_color=0b2e1f&color=74c69d&line=39D98A&point=e9f7ef&area=true&area_color=2fbf7a&title_color=39D98A&hide_border=true"
-  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assemkaram&theme=github_dark"
+  width="95%"
   alt="GitHub Activity Graph"
 />
 
@@ -242,9 +256,6 @@ A simple application that displays random quotes.
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=assemkaram&theme=github_dark" />
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assemkaram&theme=github_dark" width="95%" />
 
 </div>
 
