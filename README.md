@@ -17,6 +17,9 @@
 <a href="https://drive.google.com/drive/folders/1y4XgSw_5BSIILB7dgsxvUgwScTQC2Nq9?usp=sharing">
   <img src="https://img.shields.io/badge/CV-Show%20CV-2fbf7a?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
+<a href="https://linktr.ee/AsssemKaram">
+  <img src="https://img.shields.io/badge/Freelance-Platforms-39D98A?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
 <a href="https://github.com/assemkaram">
   <img src="https://img.shields.io/badge/GitHub-Follow-0b2e1f?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -282,6 +285,9 @@ A website for an equestrian brand showcasing horses, training, and breeding.
 </a>
 <a href="https://drive.google.com/drive/folders/1y4XgSw_5BSIILB7dgsxvUgwScTQC2Nq9?usp=sharing">
   <img src="https://img.shields.io/badge/CV-2fbf7a?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+<a href="https://linktr.ee/AsssemKaram">
+  <img src="https://img.shields.io/badge/Freelance%20Platforms-39D98A?style=for-the-badge&logo=linktree&logoColor=white" />
 </a>
 <a href="https://github.com/assemkaram">
   <img src="https://img.shields.io/badge/GitHub-0b2e1f?style=for-the-badge&logo=github&logoColor=white" />
