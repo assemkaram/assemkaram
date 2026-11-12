@@ -269,7 +269,6 @@ A website for an equestrian brand showcasing horses, training, and breeding.
 - **Fayoum University** — Faculty of Computers and Artificial Intelligence.
 - **NTI** — Web Design Training.
 - **DEPI** — Front-End React Development.
-- **Rowad Misr** — React Development & Soft Skills.
 
 ---
 
