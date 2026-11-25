@@ -78,7 +78,7 @@ const assem = {
 
 ### Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 </div>
 
@@ -87,7 +87,7 @@ const assem = {
 | Languages | HTML5, CSS3, JavaScript |
 | Frontend | React, Bootstrap, Tailwind CSS |
 | Concepts | Responsive Design, UI Implementation, API Integration |
-| Tools | Git, GitHub, VS Code |
+| Tools | Git, GitHub, VS Code, Vercel |
 
 ---
 
